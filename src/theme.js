@@ -12,7 +12,6 @@ export const theme = createTheme({
         background: {
           default: '#f4e177',
         },
-      },
     }
-  );
+  });
 
